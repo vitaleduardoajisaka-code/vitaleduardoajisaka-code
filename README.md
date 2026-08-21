@@ -2,7 +2,7 @@
 
 **`Estudante universitário na Estácio pelo curso de Ciências da Computação e aspisrante a desenvolvedor python`**
 
-Me chamo Vital Eduardo Ajisaka Nunes, tenho 19 anos e sou natural do Pará. Concluí o ensino médio na ELITE. Atualmente, estou cursando Ciências da Computação pela Estácio. Sou apaixonada por tecnologia e anseio por desenvolver projetos reais na área, onde ensino a criar projetos web .
+Me chamo Vital Eduardo Ajisaka Nunes, tenho 19 anos e sou natural do Pará. Concluí o ensino médio na ELITE. Atualmente, estou cursando Ciências da Computação pela Estácio. Sou apaixonada por tecnologia e anseio por desenvolver projetos reais na área.
 
 <p align="left">
     <a href="https://github.com/vitaleduardoajisaka-code?tab=repositories&sort=stargazers">
